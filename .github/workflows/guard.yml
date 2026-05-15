@@ -1,4 +1,4 @@
-name: GitGuardian Secret
+name: GitGuardian Secret yaml
  
 on:
   push:
