@@ -1,4 +1,4 @@
-name: GitGuardian Secret Scan
+name: GitGuardian Secret
  
 on:
   push:
